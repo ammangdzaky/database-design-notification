@@ -1,0 +1,19 @@
+FEATURE : Inbox
+inbox akan berisikan semua informasi notifikasi untuk pengguna
+
+
+FEATURE : Kategori
+- terdapat dua jenis kategori; promo dan info
+- promo bersifat universal (akan di broadcast ke semua pengguna)
+- info akan berisikan informasi yang ditujukan ke pengguna tertentu ( mis status pembayaran
+- jika di klik, secara otomatis isi inbox hanya berisikan kategori tersebut
+
+
+FEATURE : Read/Unread
+- inbox harus membedakan mana notifikasi yg sudah di read dan belum
+- warna hijau menandakan notifikasi belum di read
+- warna putih menandakan notifikasi sudah di read
+
+
+FEATURE : jumlah notifikasi
+menu notifikasi harus bisa menampilkan jumlah notifikasi untuk yg belum dibaca
